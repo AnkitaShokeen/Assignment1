@@ -1,4 +1,3 @@
-
 QUESTION:1  Print Something
 
 x="My name is Ankita Shokeen"
