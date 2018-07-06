@@ -25,7 +25,7 @@ b=np.random.rand(20,25)
 c=np.dot(a,b)
 print("matrix A",c)
 print("matrix B ",c.shape)
-print("Sum is: ",np.sum(C))
+print("Sum is: ",np.sum(c))
 
 
 #Q4.Create a numpy array A of shape(10,1).Using the basic operations of the numpy array generate an array of shape(10,1) such that each element is the following function applied on each element of A.
